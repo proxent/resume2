@@ -1,0 +1,63 @@
+# Site settings
+title: "박찬진"
+description: "A live resume"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "박찬진"
+resume_title:                   "어제보다 나은 오늘의 코드를 위해"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "chanjin@qualisoft.kr"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "010-7340-1578"
+resume_contact_address:         "서울"
+
+resume_header_contact_info:     "서울 • 010-7340-1578 • chanjin@qualisoft.kr"
+display_header_contact_info:    "true"
+
+resume_header_intro: "<p>안녕하세요, 저는 박찬진입니다. 사람들이 어떤 도움이 필요하고, 어떤 코드가 실제로 그런 도움을 줄 수 있을 지 고민해왔습니다. 개발만을 위한 것이 아닌 개발을 하고 싶고, 짜기 쉬운 코드보다 읽기 쉬운 코드를 짤 수 있는 개발자가 되려고 노력하고 있습니다. </p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+# resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+# resume_section_skills:          true
+# resume_section_recognition:     true
+# resume_section_links:           true
+# resume_section_associations:    true
+resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/proxent"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  # resume_website_url:           "http://joelglovier.com"
+  # resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

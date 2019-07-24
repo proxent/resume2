@@ -1,0 +1,25 @@
+
+- project: Mongo DB 텍스트 마이닝
+  role: Founder & Primary Developer
+  duration: 2019.05
+  # url: "#"
+  description: "<li>파이썬을 사용해 웹에서 텍스트 마이닝을 하는 프로젝트를 수행함</li><li>BeautifulSoup, MeCab을 이용해 웹에서 뉴스를 가져오고 Apriori 알고리즘을 적용</li><li>기술 스택: Python, MongoDB</li>"
+
+- project: 파이썬 튜터
+  role: Co-Founder & Organizer
+  duration: 2019.01 &mdash; 2019.03
+  # url: "#"
+  description: "<li>부동산 스타트업 감정평가사를 대상으로 튜터링 진행</li><li> Numpy, Pandas로 데이터 처리 방법을 튜터링함</li>"
+
+- project: 하나드라이브
+  role: Co-Founder & Organizer
+  duration: 2013.06 &mdash; 2016.02
+  # url: "#"
+  description: " <li>교내 클라우드 드라이브 서비스 제작</li><li>작업 환경이 자주 바뀌어 파일관리에 어려움을 겪는 문제에 착안함</li><li>Ubuntu 12.04 LTS을 기반으로 서비스 구축</li><li>기술 스택: Shell Script, Samba, Apache, PHP</li>"
+
+
+- project: 네트워크 설정 도우미
+  role: Co-Founder & Organizer
+  duration: 2013.03 &mdash; 2016.02
+  # url: "#"
+  description: "<li>학교 유/무선랜 자동 연결 프로그램 작성</li><li>까다로운 무선랜 계정 인증을 자동화함</li><li>기술 스택: C, Powershell</li>"
