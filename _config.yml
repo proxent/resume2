@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "박찬진"
-resume_title:                   "<b>어제보다 나은 오늘의 코드를 위해.</b>"
+resume_title:                   "<b>지속가능한 개발자.</b>"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "chanjin@qualisoft.co.kr"
