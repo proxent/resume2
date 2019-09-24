@@ -3,4 +3,25 @@
 - company: (주)퀄리소프트
   position: 사원
   duration: "2019.01 &mdash; Present<br>Microsoft Dynamics 365 개발/커스터마이제이션"
-  summary: "<li>영진약품 CRM 모바일 거래처 지도 제작</li><ul><li>Google Maps API를 이용해 모바일 거래처 지도 모듈 작성</li><li>Tmap API를 이용해 도로 경로/유류비 계산 모듈 작성</li><li>거래처 관리 페이지 작성</li></ul><li>국도화학 CRM 커스터마이제이션</li><ul><li>국도화학 CRM 커스터마이제이션 업무 수행</li><li>중복 등록 거래처 검출 모듈 작성</li><li>사업자 번호/등록 일자 검증 모듈 작성</li></ul><li>태성에스엔이 CRM 커스터마이제이션</li><ul><li>태성에스엔이 CRM 커스터마이제이션 업무 수행</li></ul><li>한아세안센터 CRM 커스터마이제이션</li><ul><li>한아세안센터 CRM 커스터마이제이션 업무 수행</li></ul><li>기술 스택: AngularJS</li>"
+  summary: >
+  <li>영진약품 CRM 모바일 거래처 지도 제작</li>
+  <ul>
+  <li>Google Maps API를 이용해 모바일 거래처 지도 모듈 작성</li>
+  <li>Tmap API를 이용해 도로 경로/유류비 계산 모듈 작성</li>
+  <li>거래처 관리 페이지 작성</li>
+  </ul>
+  <li>국도화학 CRM 커스터마이제이션</li>
+  <ul>
+  <li>국도화학 CRM 커스터마이제이션 업무 수행</li>
+  <li>중복 등록 거래처 검출 모듈 작성</li>
+  <li>사업자 번호/등록 일자 검증 모듈 작성</li>
+  </ul>
+  <li>태성에스엔이 CRM 커스터마이제이션</li>
+  <ul>
+  <li>태성에스엔이 CRM 커스터마이제이션 업무 수행</li>
+  </ul>
+  <li>한아세안센터 CRM 커스터마이제이션</li>
+  <ul>
+  <li>한아세안센터 CRM 커스터마이제이션 업무 수행</li>
+  </ul>
+  <li>기술 스택: AngularJS</li>
