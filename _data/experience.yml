@@ -6,7 +6,7 @@
   summary: "
   <li>영진약품 CRM 모바일 거래처 지도 제작</li>
   <ul>
-  <li><a href='resume2/resources/code.pdf'>제약사 영업사원들이 당일 방문할 거래처를 편리하게 찾게 하기 위해 CRM과 연동되는 모바일 거래처 지도 기능을 작성했습니다.</a></li>
+  <li><a href='resources/code.pdf'>제약사 영업사원들이 당일 방문할 거래처를 편리하게 찾게 하기 위해 CRM과 연동되는 모바일 거래처 지도 기능을 작성했습니다.</a></li>
   <li>CRM 서버에서 데이터를 받아오고 동적으로 페이지에 반영하기 위하여 AngularJS를 사용했습니다.</li>
   <li>Google Maps API를 이용해 지도를 그리고 거래처를 표시했습니다.</li>
   <li>Tmap API를 이용해 유류비를 계산하는 모듈을 포함시켰습니다.</li>
