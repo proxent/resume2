@@ -4,7 +4,8 @@
   duration: 2019.05
   # url: "#"
   description: "<li><a href='https://github.com/proxent/textMining'>파이썬을 사용해 웹에서 텍스트 마이닝을 하는 프로젝트를 수행했습니다.</a></li>
-  <li>BeautifulSoup, MeCab을 이용해 웹에서 뉴스를 가져오고 Apriori 알고리즘을 적용했습니다.</li>
+  <li>BeautifulSoup, MeCab을 이용해 웹에서 뉴스를 크롤링했습니다.</li>
+  <li>크롤링한 데이터에 Apriori 알고리즘을 적용해 단어 간 연관도를 도출했습니다.</i>
   <li>기술 스택: Python, MongoDB</li>"
 
 - project: 파이썬 튜터
@@ -25,10 +26,11 @@
   <li>기술 스택: Shell Script, Samba, Apache, PHP</li>"
 
 
-- project: <a href="https://github.com/proxent/wlan_wizard">네트워크 설정 도우미</a>
+- project: 네트워크 설정 도우미
   role: Co-Founder & Organizer
   duration: 2013.03 &mdash; 2016.02
   # url: "#"
-  description: "<li>학교 유/무선랜 자동 연결 프로그램을 작성했습니다.</li>
-  <li>복잡한 무선랜 계정 인증을 자동화했습니다.</li>
+  description: "<li><a href='https://github.com/proxent/wlan_wizard'>교내 유/무선랜 자동 연결 프로그램을 작성했습니다.</a></li>
+  <li>교내 무선 네트워크 연결 시 PEAP 인증 설정이 학생들에게 까다로운 점을 해결하고자 자동으로 연결을 완료하는 프로그램을 작성했습니다..</li>
+  <li>무선랜 계정 인증을 자동화했습니다.</li>
   <li>기술 스택: C, Powershell</li>"
