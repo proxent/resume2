@@ -30,7 +30,7 @@
   role: Co-Founder & Organizer
   duration: 2013.03 &mdash; 2016.02
   # url: "#"
-  description: "<li><a href='https://github.com/proxent/wlan_wizard'>교내 유/무선랜 자동 연결 프로그램을 작성했습니다.</a></li>
-  <li>교내 무선 네트워크 연결 시 PEAP 인증 설정이 학생들에게 까다로운 점을 해결하고자 자동으로 연결을 완료하는 프로그램을 작성했습니다..</li>
-  <li>무선랜 계정 인증을 자동화했습니다.</li>
+  description: "<li>교내 유/무선랜 연결 프로그램을 작성했습니다.</li>
+  <li><a href='https://github.com/proxent/wlan_wizard'>PEAP 보안 인증 설정이 학생들에게 까다로운 점을 해결하고자 자동으로 연결을 완료하는 프로그램을 작성했습니다.</a></li>
+  <li><a href='https://github.com/proxent/lan_wizard'>IP 설정, DNS 설정이 학생들에게 까다로운 점을 해결하는 프로그램을 작성했습니다.</a></li>
   <li>기술 스택: C, Powershell</li>"
